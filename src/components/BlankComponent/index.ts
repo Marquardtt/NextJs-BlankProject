@@ -1,0 +1,1 @@
+export { BlankComponent } from './blankComponent';
